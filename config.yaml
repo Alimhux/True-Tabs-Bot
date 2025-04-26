@@ -1,0 +1,21 @@
+# Конфигурация Telegram бота
+telegram:
+  token: '8143424816:AAEILGgERgEuR-CCjReUPpvtkYSS9fPb9E8' # Токен бота из @BotFather
+
+# Настройки TrueTabs API
+truetabs:
+  token: 'usk9UDVCHbcAdWDLiIgLT6M' # Токен для доступа к API TrueTabs
+  base_url: 'https://true.tabs.sale/' # Базовый URL API
+
+# Настройки почты
+email:
+  bot_email: 'bot@yandex.ru' # Email бота для отправки писем
+  bot_password: 'your_password' # Пароль от почты (рекомендуется использовать пароль приложения)
+  imap_server: 'imap.yandex.ru' # IMAP сервер для получения писем
+  smtp_server: 'smtp.yandex.ru' # SMTP сервер для отправки писем
+  smtp_port: 587 # Порт SMTP сервера (587 для TLS, 465 для SSL)
+
+# Настройки отчетов
+report:
+  output_file: 'отчет.docx' # Файл для сохранения отчетов
+  user_state_file: 'user_states.json' # Файл для хранения состояний пользователей

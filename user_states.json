@@ -1,0 +1,32 @@
+{
+  "884712444": {
+    "access": true,
+    "email": null,
+    "email_password": null,
+    "smtp_server": null,
+    "smtp_port": null,
+    "last_reminders": {
+      "Внедрение CRM": "2025-04-21T01:45:59.569041"
+    }
+  },
+  "5214832160": {
+    "access": true,
+    "email": null,
+    "email_password": null,
+    "smtp_server": null,
+    "smtp_port": null,
+    "last_reminders": {
+      "Внедрение CRM": "2025-04-21T02:31:07.697143"
+    }
+  },
+  "1490752843": {
+    "access": true,
+    "email": "a.a.zobov@a2tron.ru",
+    "email_password": "azA2t19!",
+    "smtp_server": "smtp.beget.com",
+    "smtp_port": 465,
+    "last_reminders": {
+      "Внедрение CRM": "2025-04-21T09:33:23.719326"
+    }
+  }
+}
